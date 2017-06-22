@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{1EAFD5E0-8EE8-4061-BD86-18019C2A7DB3}">
+	<children />
+	<folders />
+	<testItems key="{2DB1F9CE-C7A2-4834-8509-E8F664EBEC4B}">
+		<children />
+	</testItems>
+	<variables key="{110B20C2-1A3E-4ACC-BCF3-46A2AE55670E}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{3E5FBE28-DA39-4866-B4A4-A72B2F244EBB}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
