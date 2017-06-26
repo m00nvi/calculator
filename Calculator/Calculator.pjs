@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{1EAFD5E0-8EE8-4061-BD86-18019C2A7DB3}">
-	<children />
+	<children>
+		<child name="Calculator" key="{77FBCCC0-D95E-4851-A84D-973AAF7A5872}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Calculator\Calculator.mds" />
+		</child>
+	</children>
 	<folders />
 	<testItems key="{2DB1F9CE-C7A2-4834-8509-E8F664EBEC4B}">
-		<children />
+		<children>
+			<testItem key="{77FBCCC0-D95E-4851-A84D-973AAF7A5872}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
 	</testItems>
 	<variables key="{110B20C2-1A3E-4ACC-BCF3-46A2AE55670E}">
 		<data Version="3" />
