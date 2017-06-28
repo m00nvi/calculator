@@ -1,4 +1,5 @@
-﻿Sub AutoRecordedBadTest
+﻿'------------------
+Sub AutoRecordedBadTest
   Dim chrome_RenderWidgetHostHWND
   Call TestedApps.calc.Run(1, True)
   Set chrome_RenderWidgetHostHWND = Aliases.browser.wndYandexBrowser_WidgetWin_1.Chrome_RenderWidgetHostHWND
@@ -7,3 +8,13 @@
   Call chrome_RenderWidgetHostHWND.Click(938, 518)
   Call chrome_RenderWidgetHostHWND.Click(1116, 588)
 End Sub
+'------------------
+
+
+'------------------
+Sub ManuallyScriptedGoodTest
+  Sys.Desktop.Keys("[Hold][Win]r")
+  Aliases.explorer.dialogRun.Keys("calc[Enter]")
+  
+End Sub
+'------------------

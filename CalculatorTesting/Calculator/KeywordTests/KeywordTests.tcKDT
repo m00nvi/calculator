@@ -19,17 +19,7 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="child list">
-			<Node name="test1">
-				<Node name="item data">
-					<Prp name="relpath" type="S" value="Test1.tcKDTest"/>
-				</Node>
-				<Prp name="key" type="S" value="{51153284-AB66-49BE-975A-F3DC2A20389D}"/>
-				<Prp name="pluginname" type="S" value="Keyword Testing"/>
-				<Prp name="type" type="S" value="{B9D9273E-7266-43E0-BF02-97F168593604}"/>
-				<Prp name="typename" type="S" value="Keyword Test"/>
-			</Node>
-		</Node>
+		<Node name="child list"/>
 		<Node name="folders"/>
 		<Node name="settings"/>
 		<Prp name="signature" type="S" value="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}"/>
