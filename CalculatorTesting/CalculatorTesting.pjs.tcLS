@@ -21,7 +21,16 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="default project" type="S" value="{00000000-0000-0000-0000-000000000000}"/>
+				<Prp name="default project" type="S" value="{D6D37805-3B1B-4B49-B975-447DA52D73D2}"/>
+			</Node>
+			<Node name="{443e69ea-6a27-495a-b3ff-9b64fd1fce79}">
+				<Prp name="relpath" type="S" value="Calculator\Calculator.mds.tcLS"/>
+			</Node>
+			<Node name="{9b576984-f020-4cbc-a446-4fb562257e32}">
+				<Prp name="relpath" type="S" value="Calculator\Calculator.mds.tcLS"/>
+			</Node>
+			<Node name="{d6d37805-3b1b-4b49-b975-447da52d73d2}">
+				<Prp name="relpath" type="S" value="Calculator\Calculator.mds.tcLS"/>
 			</Node>
 			<Node name="logs">
 				<Prp name="key" type="S" value="{A5ED34BF-426D-4199-AC50-36A0C38159DC}"/>

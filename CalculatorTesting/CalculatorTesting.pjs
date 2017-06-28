@@ -22,23 +22,41 @@
 		<Node name="analysis">
 			<Prp name="key" type="S" value="{FC587CD3-6366-4DE9-A996-30A96B452E49}"/>
 		</Node>
-		<Node name="child list"/>
+		<Node name="child list">
+			<Node name="calculator">
+				<Node name="item data">
+					<Prp name="relpath" type="S" value="Calculator\Calculator.mds"/>
+				</Node>
+				<Prp name="key" type="S" value="{D6D37805-3B1B-4B49-B975-447DA52D73D2}"/>
+				<Prp name="pluginname" type="S" value=""/>
+				<Prp name="type" type="S" value="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}"/>
+				<Prp name="typename" type="S" value="Project"/>
+			</Node>
+		</Node>
 		<Node name="folders"/>
 		<Node name="scc">
 			<Node name="data"/>
-			<Prp name="key" type="S" value="{00000000-0000-0000-0000-000000000000}"/>
-			<Prp name="name" type="S" value=""/>
+			<Prp name="key" type="S" value="{C900492B-D218-429C-9AA0-264B7D78CA88}"/>
+			<Prp name="name" type="S" value="Git Plugin"/>
 		</Node>
 		<Node name="settings">
 			<Node name="{5a85e200-b5d2-4f74-972a-0221f2956a19}">
 				<Prp name="type" type="I" value="5"/>
-				<Prp name="value" type="S" value="Program Files (x86)\SmartBear\TestComplete 11\Bin\Log"/>
+				<Prp name="value" type="S" value="Log"/>
 			</Node>
 			<Prp name="key" type="S" value="{9801C34C-E637-4B76-AB26-13BBB2074C28}"/>
 			<Prp name="settingsversion" type="S" value="11.31"/>
 		</Node>
 		<Node name="test data">
-			<Node name="child list"/>
+			<Node name="child list">
+				<Node name="item idx=0000">
+					<Prp name="description" type="S" value=""/>
+					<Prp name="enabled" type="B" value="-1"/>
+					<Prp name="key" type="S" value="{D6D37805-3B1B-4B49-B975-447DA52D73D2}"/>
+					<Prp name="stoponerror" type="B" value="-1"/>
+					<Prp name="timeout" type="I" value="0"/>
+				</Node>
+			</Node>
 			<Prp name="key" type="S" value="{E0C0027A-80AB-4933-B7DD-3C3F9504A57F}"/>
 		</Node>
 		<Node name="variables">
